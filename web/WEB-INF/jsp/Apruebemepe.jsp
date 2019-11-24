@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Habla un paneton :v (DONOFRIO :v)</h1>
+        <h1>CEVICHE</h1>
     </body>
 </html>
